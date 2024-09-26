@@ -3,6 +3,7 @@
          {vsn, "4.4.2"},
          {registered, [ibrowse_sup, ibrowse]},
          {applications, [kernel,stdlib]},
+         {included_applications, [ssl]},
 	 {env, []},
 	 {mod, {ibrowse_app, []}},
          {maintainers, ["Chandrashekhar Mullaparthi"]},

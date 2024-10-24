@@ -1,4 +1,6 @@
-# ibrowse [![Build Status](https://secure.travis-ci.org/cmullaparthi/ibrowse.png)](http://travis-ci.org/cmullaparthi/ibrowse)
+# ibrowse 
+
+![ibrowse OpenRiak Status](https://github.com/OpenRiak/ibrowse/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
 
 ibrowse is a HTTP client written in erlang.
 

@@ -1,6 +1,6 @@
 # ibrowse 
 
-![ibrowse OpenRiak Status](https://github.com/OpenRiak/ibrowse/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
+![ibrowse OpenRiak Status](https://github.com/OpenRiak/ibrowse/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.4)
 
 ibrowse is a HTTP client written in erlang.
 
